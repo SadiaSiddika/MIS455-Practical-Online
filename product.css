@@ -2,6 +2,7 @@ body{
     background-color: rgb(230, 196, 255);
     font-family: 'Times New Roman';
     font-size: 16px;
+  
 }
 
 /* navbar starts */
@@ -35,7 +36,7 @@ li a{
 }
 
 li :hover{
-    background-color: rgb(210, 17, 210);
+    background-color: rgb(20, 142, 50);
 }
 /* navbar ends */
 
@@ -82,4 +83,5 @@ p:hover{
     color:rgb(255, 0, 212);
 }
 
-/* paragraph ends *
+
+ 
