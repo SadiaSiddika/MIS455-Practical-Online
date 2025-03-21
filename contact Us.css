@@ -22,3 +22,46 @@ li{
     font-size: 30px ;
     margin-right: 10px;
 }
+a{
+    text-decoration: none;
+    color: black;
+    margin-left: 50px;
+}
+
+li a{
+    justify-content: center;
+}
+
+li :hover{
+    background-color: rgb(210, 17, 210);
+}
+/* navbar ends */
+
+/* header and footer starts*/
+
+header{
+    text-align: center;
+    font-family: 'Gill Sans','sans-serif';
+}
+
+footer{
+    background-color: #333;
+    color:white;
+    padding:20px 0;
+    text-align: center;
+}
+
+/* header and footer ends */
+
+/* image starts */
+
+img{
+    height:250px;
+    width: 250px;
+    border-radius: 50%;
+}
+.contactUsImage1{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+}
