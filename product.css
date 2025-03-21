@@ -48,7 +48,7 @@ header{
 }
 
 footer{
-    background-color: #333;
+    background-color: #dd2929;
     color:white;
     padding:20px 0;
     text-align: center;
@@ -80,7 +80,7 @@ p{
 
 p:hover{
     border:2px solid rgb(218, 119, 236);
-    color:rgb(255, 0, 212);
+    color:rgb(207, 225, 43);
 }
 
 
